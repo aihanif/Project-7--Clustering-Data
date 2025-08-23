@@ -60,10 +60,10 @@ This project implements advanced clustering analysis on system monitoring data t
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/system-monitoring-clustering.git
+git clone https://github.com/aihanif/Project-7--Clustering-Data.git
 
 # Navigate to project directory
-cd system-monitoring-clustering
+cd Project-7--Clustering-Data
 
 # Install required packages
 pip install -r requirements.txt

@@ -166,7 +166,7 @@ The project generates comprehensive visualizations including:
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the  file for details.
+This project is licensed under the MIT License - see the LICENSE.txt file for details.
 
 ## 👨‍💻 Author
 

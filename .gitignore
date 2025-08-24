@@ -147,8 +147,7 @@ secrets.json
 *.so
 *.dylib
 
-# Exclude everything except specific file types
-*
+# Allow specific file types
 !*.pickle
 !*.csv
 !*.md
@@ -162,12 +161,17 @@ secrets.json
 !*.LICENSE
 !*.requirements.txt
 
-# Allow specific directories
+# Allow specific directories and their contents
 !data/
+!data/**
 !docs/
+!docs/**
 !tests/
+!tests/**
 !outputs/
+!outputs/**
 !.github/
+!.github/**
 
 # Allow specific file patterns in allowed directories
 !data/**/*.pickle

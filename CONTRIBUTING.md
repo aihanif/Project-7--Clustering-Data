@@ -45,10 +45,10 @@ We welcome contributions from the community! Here are some ways you can help:
 ### Local Development
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/system-monitoring-clustering.git
+git clone https://github.com/aihanif/Project-7--Clustering-Data.git
 
 # Navigate to project directory
-cd system-monitoring-clustering
+cd Project-7--Clustering-Data
 
 # Create virtual environment
 python -m venv venv

@@ -1,0 +1,3 @@
+Cluster_ID,Size,Percentage,Mobile_Users,Weekend_Users,Avg_Pages,Avg_Annotations,Silhouette_Score,Key_Characteristics
+Cluster_0,488,72.7%,10.7%,8.4%,2.26,1.86,0.3781,"Desktop-dominant, Weekday-focused, Low engagement"
+Cluster_1,183,27.3%,1.1%,5.5%,1.84,4.34,-0.0790,"Desktop-dominant, Weekday-focused, Low engagement"
